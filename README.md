@@ -42,7 +42,8 @@
   We drew small stars around the design using sketch pens to make the card more attractive.
 
 - Step 6  – LED Connection  
-  We connected the LED with the battery using connecting wires. The LED was placed near the greeting card design.![][image1]  
+  We connected the LED with the battery using connecting wires. The LED was placed near the greeting card design.
+![simulation ](circuit.jpg)
 - Step 7 –  Making the Conductive Strip  
   We used aluminium foil as a conducting material and fixed it properly with tape.  
 - Step 8 –  Testing the Circuit  
@@ -58,7 +59,7 @@ When the circuit is connected to the battery, electric current flows through the
 *  Result  
   We successfully made a creative LED greeting card using simple materials and an LED circuit.
 
-![][image2]
+![Result ](result.jpg)
 
 * Conclusion  
 * The  project helped us to understand the basic flow of electric current and LED connection while creating a useful and attractive greeting card.
